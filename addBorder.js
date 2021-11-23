@@ -1,3 +1,5 @@
+//Given a rectangular matrix of characters, add a border of asterisks(*) to it.
+
 function solution(picture) {
   const width = picture[0].length + 2;
   let tb = ''
